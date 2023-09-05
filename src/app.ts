@@ -18,7 +18,7 @@ async function menu () {
   do {
     console.clear();
     console.log('1 - Listar pessoas - do Pretto');
-    console.log('2 - Cadastrar novo cliente');
+    console.log('2 - Cadastrar novo cliente - do Pretto');
     console.log('3 - Editar cliente');
     console.log('4 - Excluir cliente');
     console.log('5 - Listar quartos');
