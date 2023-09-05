@@ -23,7 +23,7 @@ async function menu () {
     console.log('4 - Excluir cliente');
     console.log('5 - Listar quartos');
     console.log('6 - Cadastrar novo quarto');
-    console.log('7 - Editar quarto');
+    console.log('7 - Editar quarto s');
     console.log('8 - Excluir quarto');
     console.log('9 - Olhar pela janela');
     console.log('0 - Sair');
