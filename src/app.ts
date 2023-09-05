@@ -25,6 +25,7 @@ async function menu () {
     console.log('6 - Cadastrar novo quarto');
     console.log('7 - Editar quarto');
     console.log('8 - Excluir quarto');
+    console.log('9 - Olhar pela janela');
     console.log('0 - Sair');
     input = prompt('Selecione a opção desejada:');
 
